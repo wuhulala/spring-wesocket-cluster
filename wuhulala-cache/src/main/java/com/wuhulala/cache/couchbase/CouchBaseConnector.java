@@ -10,7 +10,7 @@ import java.net.URI;
 import java.util.ArrayList;
 
 /**
- * @author xueah20964
+ * @author wuhulala
  * @date 2017/4/5
  */
 @Component

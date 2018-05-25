@@ -5,7 +5,7 @@ import java.util.Set;
 /**
  * 各种缓存客户端需要实现的接口
  *
- * @author xueah20964
+ * @author wuhulala
  * @date 2017/4/5
  */
 public interface CacheClient <K,V>{
